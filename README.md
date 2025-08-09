@@ -6,3 +6,7 @@ Diferença entre ciclo de vida do hardware e do software:
 - Hardware: sofre desgaste físico, tem vida útil limitada.
 - Software: não sofre desgaste físico, pode evoluir e receber atualizações.
   
+## Manutenção de Software
+- Corretiva
+- Adaptativa
+- Evolutiva
